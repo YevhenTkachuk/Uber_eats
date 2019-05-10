@@ -1,0 +1,19 @@
+@import "variables.css";
+@import "header/header.css";
+@import "order-info/order-info.css";
+@import "authorization_cabinet/authorisation.css";
+@import "restaurant__choose/restaurant-choose.css";
+@import "card/card.css";
+@import "footer/footer.css";
+@import "restaurant-preview/restaurant-preview.css";
+@import "restaurant-menu/restaurant-menu.css";
+@import "dish-card/dish_card.css";
+
+* {
+  box-sizing: border-box;
+  font-family: var(--main_font);
+}
+
+body {
+  margin: 0;
+}

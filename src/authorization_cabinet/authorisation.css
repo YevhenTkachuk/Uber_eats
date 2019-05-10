@@ -1,0 +1,19 @@
+.authorisation-cabinet__wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.authorisation-cabinet {
+  width: 80px;
+  height: 40px;
+  box-sizing: border-box;
+  border: 1px solid var(--border_grey);
+  border-radius: 2px;
+}
+
+.authorisation-cabinet--black {
+  background: var(--background_black);
+  color: var(--white);
+  border: none;
+  margin: 0 16px 0 27px;
+}

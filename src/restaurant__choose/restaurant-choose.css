@@ -1,0 +1,51 @@
+.restaurant-choose__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.restaurant-choose {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: 1124px;
+}
+
+.search__label {
+  margin-top: 73px;
+}
+
+.search__label::before {
+  content: url(img/Shapesearch.svg);
+  position: absolute;
+  top: 115px;
+}
+
+.search {
+  width: 1142px;
+  height: 79px;
+  border: none;
+  border-bottom: 1px solid var(--background_lightghrey);
+  padding: 30px 0 0 30px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.restaurant-choose__city {
+  font-family: var(--main_font);
+  font-size: 22px;
+  line-height: 34px;
+  align-self: flex-start;
+  margin: 56px 0 16px;
+  color: var(--font_black);
+
+}
+
+.restaurant-choose__first,
+.restaurant-choose__second,
+.restaurant-choose__third {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}

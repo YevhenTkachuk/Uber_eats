@@ -1,0 +1,15 @@
+
+:root {
+  --main_font: "Roboto", sans-serif;
+  --font_black: #1d1d1d;
+  --background_black: #262626;
+  --font_grey: #626262;
+  --border_grey: #e0e0e0;
+  --white: #fff;
+  --border_dark_grey: #757575;
+  --font-green: #327430;
+  --border_light_grey: rgba(117, 117, 117, 0.2);
+  --background_lightghrey: #ddd;
+  --font_blue: darkblue;
+
+}
