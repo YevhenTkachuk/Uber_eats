@@ -1,6 +1,6 @@
 # Uber eats
 
-### [Demo]()
+### [Demo](https://yevhentkachuk.github.io/Uber_eats/src/index.html)
 
 ### Delivery service website
 
