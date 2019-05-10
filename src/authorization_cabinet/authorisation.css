@@ -9,6 +9,7 @@
   box-sizing: border-box;
   border: 1px solid var(--border_grey);
   border-radius: 2px;
+  background: none;
 }
 
 .authorisation-cabinet--black {

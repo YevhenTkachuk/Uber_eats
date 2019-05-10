@@ -9,7 +9,6 @@
 }
 
 .order-info__time {
-  background: var(--background_lightghrey);
   font-family: var(--main_font);
   height: 40px;
   width: 60px;
@@ -20,6 +19,7 @@
   border: 1px solid var(--border_grey);
   cursor: pointer;
   border-radius: 2px;
+  background: none;
 }
 
 .order-info__span {
